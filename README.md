@@ -68,12 +68,9 @@ I mix coding by hand with orchestrating AI coding tools to give myself a rounded
  
 <p align="center">
   <img
-    src="https://YOUR-GITHUB-STATS-APP.vercel.app/api?username=isaacyoungs&show_icons=true&hide_border=true&theme=tokyonight&icon_color=38BDF8"
-  />
-  <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacyoungs&layout=compact&hide_border=true&theme=tokyonight"
-    alt="Top languages"
+    src="https://github-readme-stats-beta-one-50.vercel.app/api?username=isaac36y&layout=compact&hide_border=true&theme=tokyonight"
+    alt="GitHub stats"
   />
 </p>
 ---
