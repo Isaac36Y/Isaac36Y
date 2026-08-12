@@ -12,9 +12,9 @@
  
 ### Hey, I'm Isaac.
  
-I'm a self-taught full-stack developer in Southern Oregon. I came into software from a sales career, and that turned out to be a real edge: I can walk into a room with someone who has never hired a developer, find the actual problem buried under how they describe it, scope it, price it, and ship something that solves it.
+I'm a self-taught full-stack developer in Southern Oregon, mostly working in TypeScript, React, and Node. I care as much about the conversation around the code as the code itself: understanding what someone actually needs, explaining tradeoffs in plain terms, and building the thing that fits. Good software is a communication problem before it's a technical one. 
  
-I'm comfortable and fluent with AI tools and agentic workflows. I hand code my passion projects because I think it's extremely helpful to keep architecture, design, and problem solving mind sets strong. I have a lot of experience in offline-first DB syncing, data-driven tools, and customer facing problem solving. I actively consume content to improve myself as a developer.
+I'm comfortable and fluent with AI tools and agentic workflows. I hand code my passion projects because I think it's extremely helpful at keeping architectural, design, and problem solving mind sets strong. I have a lot of experience in offline-first DB syncing, data-driven tools, and customer facing problem solving. I actively consume content to improve myself as a developer.
 
 I'm looking to join a team where I can keep shipping, learn from people better than me, and grow into a stronger engineer. I still take on freelance work while I look.
  
