@@ -25,7 +25,7 @@ I'm looking to join a team where I can keep shipping, learn from people better t
 **Operations & Management system for a water district** - An offline-first PWA that replaces a retired foreman's decades of institutional knowledge with an asset registry, task/project/log system, and a live dispatch board. A real client with a problem and a solution that will change their workflow for the better. This is the project that is helping me fine-tune service workers, IndexedDB sync, and conflict resolution.
 `React` · `TypeScript` · `Supabase` · `PWA / offline-first`
  
-**Ascent Interrupt** *(passion project)** - A roguelike deckbuilder in the spirit of Slay the Spire, themed around hacking your way up a corporate tower, terminal-and-circuit-board aesthetic. Built with a strict sim/UI architectural split so the game logic is fully testable and headless. Thoroughly enjoying my time with this one and hand writing the whole thing(except testing but can you blame me?). 
+**Ascent Interrupt** *(passion project)* - A roguelike deckbuilder in the spirit of Slay the Spire, themed around hacking your way up a corporate tower, terminal-and-circuit-board aesthetic. Built with a strict sim/UI architectural split so the game logic is fully testable and headless. Thoroughly enjoying my time with this one and hand writing the whole thing(except testing but can you blame me?). 
 `Vite` · `React` · `TypeScript`
  
 ---
