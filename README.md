@@ -74,7 +74,7 @@ I mix coding by hand with orchestrating AI coding tools to give myself a rounded
   />
  <img
   height="165"
-  src="https://YOUR-VERCEL-DOMAIN.vercel.app/api/top-langs/?username=Isaac36Y&layout=compact&hide_border=true&theme=tokyonight&langs_count=6"
+  src="https://github-readme-stats-beta-one-50.vercel.app/api/top-langs/?username=Isaac36Y&layout=compact&hide_border=true&theme=tokyonight&langs_count=6"
   alt="Top languages"
 />
 </p>
