@@ -68,9 +68,7 @@ I mix coding by hand with orchestrating AI coding tools to give myself a rounded
  
 <p align="center">
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=isaacyoungs&show_icons=true&hide_border=true&theme=tokyonight&icon_color=38BDF8"
-    alt="GitHub stats"
+    src="https://YOUR-GITHUB-STATS-APP.vercel.app/api?username=isaacyoungs&show_icons=true&hide_border=true&theme=tokyonight&icon_color=38BDF8"
   />
   <img
     height="165"
