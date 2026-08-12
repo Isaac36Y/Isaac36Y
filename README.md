@@ -67,8 +67,16 @@ I mix coding by hand with orchestrating AI coding tools to give myself a rounded
 ### The stats
  
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=isaacyoungs&show_icons=true&hide_border=true&theme=tokyonight&icon_color=38BDF8" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacyoungs&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=isaacyoungs&show_icons=true&hide_border=true&theme=tokyonight&icon_color=38BDF8"
+    alt="GitHub stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacyoungs&layout=compact&hide_border=true&theme=tokyonight"
+    alt="Top languages"
+  />
 </p>
 ---
  
